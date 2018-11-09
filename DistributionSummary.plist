@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RDW.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BE8DE3036E789EC348DFBFB4827748DF048C6000</string>
+				<key>dateExpires</key>
+				<string>2021/11/7</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>9GZ24R7S9T.com.roadoor.RDWTEST</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>9GZ24R7S9T</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>9GZ24R7S9T.com.roadoor.RDWTEST</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>RDW.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c85bf9b3-f38a-4572-b3ca-7e95d23892f9</string>
+				<key>name</key>
+				<string>借款端</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>9GZ24R7S9T</string>
+				<key>name</key>
+				<string>Shanghai ShengCai Financial Information Service Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
